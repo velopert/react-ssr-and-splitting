@@ -7,7 +7,10 @@ const Menu = () => {
         <Link to="/red">Red</Link>
       </li>
       <li>
-        <Link to="blue">Blue</Link>
+        <Link to="/blue">Blue</Link>
+      </li>
+      <li>
+        <Link to="/photo/1">Photo</Link>
       </li>
     </ul>
   );
